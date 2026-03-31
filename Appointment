@@ -1,0 +1,5 @@
+Patient fills form with valid details
+Verify appointment confirmation
+Patient books past date or invalid time
+Verify error message
+Book with doctor having no slots
